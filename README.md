@@ -2,11 +2,11 @@
 abc
 [Render link](https://f23wb06yada.onrender.com)
 ## class and attribute type
-### class : Books
+### class : Publisher 
 - **Attributes:**
-  1. Title (string)
-  2. Author (string)
-  3. Price (number)
-  4. Genre(string)
-  5. Publication Date(number)
-  6. ISBN(number)
+  1. Name (string)
+  2. Location (string)
+  3. Year Founded (number)
+  4. Contact Information(string)
+  5.  Website(string)
+  6. Founder(number)
